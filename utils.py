@@ -8,7 +8,6 @@ def generator_from_list(path_to_images, list_of_images, path_to_gt, num_classes,
     while True:
         random_index = np.random.choice(len(list_of_images))
         file_name = list_of_images[random_index]
-        #print(is_train_set, "reading:", file_name)
         I_img = Image.open(path_to_images + file_name).convert('RGB')
         I = np.array(I_img)/255.
 
