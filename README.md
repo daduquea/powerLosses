@@ -6,4 +6,7 @@ This code is provided as a complemental material for the paper "On power losses 
 
 For any additional request, do not hesitate to contact us a david.duque@mines-paristech.fr
 
+<b>Note: </b>
+If Github rendering of Jupyter notebooks is not working, please go to <a>https://nbviewer.jupyter.org/github/daduquea/powerLosses/blob/main/Demo.ipynb</a>
+
 
