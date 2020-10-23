@@ -2,7 +2,7 @@
 In this repository, we provide the code to train a segmentation model based on an unet architecture. There can be changed several parameters including the loss function in order to test the influence of the power term during training.
 It is necessary to unzip the data folder before running the notebook.
 
-The folder "examples" provides the results of running "Demo" notebook with some loss functions: crossentropy, classical Jaccard and power Jaccard with p = 2.
+The folder "examples" provides the results of running "Demo" notebook with some loss functions: crossentropy, classical Jaccard and power Jaccard with p = 2. Please downdload them for correct visualization.
 
 To run the demo notebook, please install:
 - Tensorflow 1.12.0
